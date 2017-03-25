@@ -37,7 +37,7 @@ section {
 	border: 1px solid black;
 	text-align: center;
 	width: 30%;
-	margin-left: 60%;
+	margin-left: 70%;
 	font-family: Georgia, Times New Roman;
 	font-weight: bold;
 	font-size: 130%;
@@ -50,7 +50,7 @@ section {
 	border: 1px solid black;
 	text-align: center;
 	width: 30%;
-	margin-left: 60%;
+	margin-left: 70%;
 	font-family: Georgia,Times New Roman;
 	font-weight: bold;
 	font-size: 130%;
@@ -63,14 +63,13 @@ section {
 	border: 1px solid black;
 	text-align: center;
 	width: 30%;
-	margin-left: 60%;
+	margin-left: 70%;
 	font-family: Georgia,Times New Roman;
 	font-weight: bold;
 	font-size: 125%;
 	margin-bottom: 0;
 	margin-top: 0;
 	background-color: #6495ED;
-	color: white;
 	padding: 5px;
 }
 
